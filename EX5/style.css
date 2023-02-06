@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Krub:wght@500&display=swap');
+
+body {
+    background-color: antiquewhite;
+    font-family: 'Mali', cursive;
+    color: #800040;
+}
+
+img.im {
+    width: 20px;
+}
+
+.con1 {
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+}
+
+.con2 {
+    width: 40%;
+    flex-direction: column;
+}
+
+.con3 {
+    margin: 0 auto;
+    width: 60%;
+    flex-direction: column;
+}
+
+.first {
+    text-align: center;
+}
+
+.pa {
+    text-align: right;
+    width: 70%;
+    margin: auto;
+    border: #800040 10px dotted;
+    padding: 20px;
+    
+    background-color: bisque;
+}
+
+.hea {
+    font-family: 'Krub', sans-serif;
+    text-align: center;
+
+}
+.pic{
+    justify-items: center;
+}
+.pad{
+    padding: 20px;
+    background-color: bisque;
+    border: #8e0248 5px solid;
+}
+.pa2{
+    width: 80%;
+    text-align: left;
+  
+    margin: auto;
+    border: #800040 5px solid;
+    padding: 10px;
+    
+    background-color: bisque;
+}
+a{
+    color: #808080;
+    text-decoration: none;
+}
+a:hover{
+    font-weight: bold;
+}
+.te{
+    font-size: 70px;
+}

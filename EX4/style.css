@@ -1,0 +1,38 @@
+body{
+    font-family: 'Thasadith', sans-serif;
+    color: rgb(129, 21, 21);
+    background-color: rgb(238, 238, 238);
+}
+.navbar-brand{
+font-size: 2rem;
+}
+.collapse{
+    font-size: 1.2rem;
+}
+.pa{
+    width: 90%;
+    margin: auto;
+}
+img.hr{
+    height: 300px;
+    
+}
+.icon{
+    font-size: 80px;
+}
+.ka{
+    text-align: center;
+}
+.co{
+    font-size: 40px;
+}
+.cen{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
+a:hover{
+    font-weight: bold;
+}
